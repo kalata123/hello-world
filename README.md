@@ -1,2 +1,5 @@
 # hello-world
-Tutorial based repository 
+
+
+Kaloyan here.
+Looking forward HACK30xTUES
